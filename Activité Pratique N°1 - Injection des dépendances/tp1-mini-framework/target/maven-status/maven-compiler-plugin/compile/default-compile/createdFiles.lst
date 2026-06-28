@@ -1,0 +1,15 @@
+ma\enset\framework\context\ApplicationContext.class
+ma\enset\framework\context\XMLApplicationContext.class
+ma\enset\app\metier\IMetier.class
+ma\enset\app\presentation\PresAnnotations.class
+ma\enset\framework\context\ConstructorArgDefinition.class
+ma\enset\framework\annotations\Autowired.class
+ma\enset\app\dao\IDao.class
+ma\enset\app\presentation\PresXML.class
+ma\enset\framework\context\PropertyDefinition.class
+ma\enset\framework\annotations\Component.class
+ma\enset\app\metier\MetierImpl.class
+ma\enset\framework\context\BeanDefinition.class
+ma\enset\framework\context\BeansConfig.class
+ma\enset\app\dao\DaoImpl.class
+ma\enset\framework\context\AnnotationApplicationContext.class

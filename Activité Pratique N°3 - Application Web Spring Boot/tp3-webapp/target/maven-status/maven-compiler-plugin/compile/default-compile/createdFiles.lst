@@ -1,0 +1,6 @@
+ma\enset\entities\Product.class
+ma\enset\repositories\ProductRepository.class
+ma\enset\controllers\AuthController.class
+ma\enset\controllers\ProductController.class
+ma\enset\security\SecurityConfig.class
+ma\enset\Tp3WebappApplication.class

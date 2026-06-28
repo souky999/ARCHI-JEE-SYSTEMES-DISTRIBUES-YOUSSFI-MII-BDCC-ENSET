@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+
+    <!-- Injection via setter (property ref) -->
+    <bean id="dao" class="ma.enset.app.dao.DaoImpl"/>
+
+    <bean id="metier" class="ma.enset.app.metier.MetierImpl">
+        <property name="dao" ref="dao"/>
+    </bean>
+
+</beans>

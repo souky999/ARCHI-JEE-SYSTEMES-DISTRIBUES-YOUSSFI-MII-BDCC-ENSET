@@ -1,0 +1,4 @@
+com\youssfi\productapp\model\Product.class
+com\youssfi\productapp\ProductAppApplication.class
+com\youssfi\productapp\repository\ProductRepository.class
+com\youssfi\productapp\controller\ProductRestController.class

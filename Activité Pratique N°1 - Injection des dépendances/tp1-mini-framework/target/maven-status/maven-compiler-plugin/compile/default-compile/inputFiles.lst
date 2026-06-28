@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\ENSET\ARCHI-JEE-SYSTEMES-DISTRIBUES-YOUSSFI-ENSET\Activité Pratique N°1 - Injection des dépendances\tp1-mini-framework\src\main\java\ma\enset\app\dao\DaoImpl.java
+C:\Users\hp\Documents\ENSET\ARCHI-JEE-SYSTEMES-DISTRIBUES-YOUSSFI-ENSET\Activité Pratique N°1 - Injection des dépendances\tp1-mini-framework\src\main\java\ma\enset\app\dao\IDao.java
+C:\Users\hp\Documents\ENSET\ARCHI-JEE-SYSTEMES-DISTRIBUES-YOUSSFI-ENSET\Activité Pratique N°1 - Injection des dépendances\tp1-mini-framework\src\main\java\ma\enset\app\metier\IMetier.java
+C:\Users\hp\Documents\ENSET\ARCHI-JEE-SYSTEMES-DISTRIBUES-YOUSSFI-ENSET\Activité Pratique N°1 - Injection des dépendances\tp1-mini-framework\src\main\java\ma\enset\app\metier\MetierImpl.java
+C:\Users\hp\Documents\ENSET\ARCHI-JEE-SYSTEMES-DISTRIBUES-YOUSSFI-ENSET\Activité Pratique N°1 - Injection des dépendances\tp1-mini-framework\src\main\java\ma\enset\app\presentation\PresAnnotations.java
+C:\Users\hp\Documents\ENSET\ARCHI-JEE-SYSTEMES-DISTRIBUES-YOUSSFI-ENSET\Activité Pratique N°1 - Injection des dépendances\tp1-mini-framework\src\main\java\ma\enset\app\presentation\PresXML.java
+C:\Users\hp\Documents\ENSET\ARCHI-JEE-SYSTEMES-DISTRIBUES-YOUSSFI-ENSET\Activité Pratique N°1 - Injection des dépendances\tp1-mini-framework\src\main\java\ma\enset\framework\annotations\Autowired.java
+C:\Users\hp\Documents\ENSET\ARCHI-JEE-SYSTEMES-DISTRIBUES-YOUSSFI-ENSET\Activité Pratique N°1 - Injection des dépendances\tp1-mini-framework\src\main\java\ma\enset\framework\annotations\Component.java
+C:\Users\hp\Documents\ENSET\ARCHI-JEE-SYSTEMES-DISTRIBUES-YOUSSFI-ENSET\Activité Pratique N°1 - Injection des dépendances\tp1-mini-framework\src\main\java\ma\enset\framework\context\AnnotationApplicationContext.java
+C:\Users\hp\Documents\ENSET\ARCHI-JEE-SYSTEMES-DISTRIBUES-YOUSSFI-ENSET\Activité Pratique N°1 - Injection des dépendances\tp1-mini-framework\src\main\java\ma\enset\framework\context\ApplicationContext.java
+C:\Users\hp\Documents\ENSET\ARCHI-JEE-SYSTEMES-DISTRIBUES-YOUSSFI-ENSET\Activité Pratique N°1 - Injection des dépendances\tp1-mini-framework\src\main\java\ma\enset\framework\context\BeanDefinition.java
+C:\Users\hp\Documents\ENSET\ARCHI-JEE-SYSTEMES-DISTRIBUES-YOUSSFI-ENSET\Activité Pratique N°1 - Injection des dépendances\tp1-mini-framework\src\main\java\ma\enset\framework\context\BeansConfig.java
+C:\Users\hp\Documents\ENSET\ARCHI-JEE-SYSTEMES-DISTRIBUES-YOUSSFI-ENSET\Activité Pratique N°1 - Injection des dépendances\tp1-mini-framework\src\main\java\ma\enset\framework\context\ConstructorArgDefinition.java
+C:\Users\hp\Documents\ENSET\ARCHI-JEE-SYSTEMES-DISTRIBUES-YOUSSFI-ENSET\Activité Pratique N°1 - Injection des dépendances\tp1-mini-framework\src\main\java\ma\enset\framework\context\PropertyDefinition.java
+C:\Users\hp\Documents\ENSET\ARCHI-JEE-SYSTEMES-DISTRIBUES-YOUSSFI-ENSET\Activité Pratique N°1 - Injection des dépendances\tp1-mini-framework\src\main\java\ma\enset\framework\context\XMLApplicationContext.java

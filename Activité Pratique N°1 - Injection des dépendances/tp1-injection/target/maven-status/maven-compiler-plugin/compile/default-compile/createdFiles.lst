@@ -1,0 +1,10 @@
+ma\enset\dao\IDao.class
+ma\enset\dao\DaoImplV2.class
+ma\enset\presentation\Pres2.class
+ma\enset\presentation\PresSpringXML.class
+ma\enset\presentation\PresSpringAnnotations.class
+ma\enset\metier\MetierImpl.class
+ma\enset\metier\IMetier.class
+ma\enset\presentation\PresSpringAnnotations$AppConfig.class
+ma\enset\dao\DaoImpl.class
+ma\enset\presentation\Pres1.class
