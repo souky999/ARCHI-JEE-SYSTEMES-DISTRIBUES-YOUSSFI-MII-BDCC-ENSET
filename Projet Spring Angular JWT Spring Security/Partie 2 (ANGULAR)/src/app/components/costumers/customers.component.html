@@ -1,0 +1,42 @@
+<div class="p-6 bg-gray-50 min-h-screen">
+  <div class="flex justify-between items-center mb-6">
+    <h1 class="text-3xl font-bold text-gray-800">Nos Clients</h1>
+    
+    <!-- Barre de recherche avec Micro -->
+    <div class="relative w-96">
+      <input type="text" placeholder="Rechercher un client..." 
+             class="w-full pl-10 pr-12 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:outline-none">
+      <i class="fas fa-search absolute left-3 top-3 text-gray-400"></i>
+      <button class="absolute right-3 top-2 text-gray-400 hover:text-blue-500 transition" title="Recherche vocale">
+        <i class="fas fa-microphone text-lg"></i>
+      </button>
+    </div>
+  </div>
+
+  <!-- Grille de Cards Clients -->
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+    <div *ngFor="let customer of customers" 
+         class="bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow p-6 border border-gray-100 cursor-pointer"
+         (click)="viewCustomerDetails(customer.id)">
+      
+      <div class="flex items-center space-x-4 mb-4">
+        <!-- Avatar Généré dynamiquement -->
+        <img [src]="'https://ui-avatars.com/api/?name=' + customer.firstName + '+' + customer.lastName + '&background=3B82F6&color=fff&size=64'" 
+             alt="Avatar" class="w-16 h-16 rounded-full shadow-sm">
+        <div>
+          <h3 class="text-lg font-bold text-gray-800">{{ customer.firstName }} {{ customer.lastName }}</h3>
+          <p class="text-sm text-gray-500">{{ customer.email }}</p>
+        </div>
+      </div>
+
+      <div class="flex justify-between items-center pt-4 border-t border-gray-100">
+        <span class="text-sm text-gray-500">
+          <i class="fas fa-wallet mr-2 text-blue-500"></i> 2 Comptes
+        </span>
+        <span class="text-sm font-semibold text-green-600">
+          <i class="fas fa-arrow-up mr-1"></i> Actif
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
